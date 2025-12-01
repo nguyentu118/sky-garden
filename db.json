@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "code": "TL001",
+      "name": "Văn học",
+      "description": "Sách văn học trong nước và quốc tế"
+    },
+    {
+      "id": "2",
+      "code": "TL002",
+      "name": "Khoa học",
+      "description": "Sách khoa học và công nghệ"
+    },
+    {
+      "id": "3",
+      "code": "TL003",
+      "name": "Kinh tế",
+      "description": "Sách về kinh tế và quản trị"
+    },
+    {
+      "id": "4",
+      "code": "TL004",
+      "name": "Thiếu nhi",
+      "description": "Sách dành cho trẻ em"
+    }
+  ],
+
+
+
+  "books": [
+    {
+      "id": "1",
+      "code": "BO-0001",
+      "name": "Đắc Nhân Tâm",
+      "categoryId": "1",
+      "importDate": "2024-01-15",
+      "quantity": 10
+    },
+    {
+      "id": "2",
+      "code": "BO-0002",
+      "name": "Sapiens: Lược sử loài người",
+      "categoryId": "2",
+      "importDate": "2024-02-20",
+      "quantity": 5
+    },
+    {
+      "id": "3",
+      "code": "BO-0003",
+      "name": "Nhà giả kim",
+      "categoryId": "1",
+      "importDate": "2024-03-10",
+      "quantity": 15
+    },
+    {
+      "id": "4",
+      "code": "BO-0004",
+      "name": "Hành trình vào vũ trụ",
+      "categoryId": "2",
+      "importDate": "2025-11-11",
+      "quantity": 12
+    }
+  ]
+}
